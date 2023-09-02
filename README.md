@@ -56,11 +56,11 @@ For more detailed usage instructions, check out our [Wiki](https://github.com/yo
 
 Feel free to submit pull requests with any improvements to the scripts. Some ideas:
 
-Additional payloads and exploits 💣
-Better vulnerability verification ✅
-Input validation and error handling 🛡️
-Multithreading for faster scanning ⚡
-Output to file/database rather than printing 💾
+- 💣 Additional payloads and exploits 
+- ✅ Better vulnerability verification 
+- 🛡️ Input validation and error handling 
+- ⚡ Multithreading for faster scanning 
+- 💾 Output to file/database rather than printing 
 
 ## License 📜
 
