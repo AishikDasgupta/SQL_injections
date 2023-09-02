@@ -75,6 +75,4 @@ We would like to thank all the contributors and users who have helped improve th
 If you have any questions or need assistance, feel free to reach out to us at itsdg19@gmail.com(mailto:itsdg19@gmail.com).
 
 Happy hacking! 💻🌐
-```
 
-Remember to replace `yourusername` and `your-repo` with your actual GitHub username and repository name. You can also add or remove emojis to suit your project's style and personality.
